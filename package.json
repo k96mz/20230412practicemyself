@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "config": "^3.3.9",
+    "hjson": "^3.2.2"
+  }
+}

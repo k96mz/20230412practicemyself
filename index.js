@@ -5,5 +5,5 @@ const t = config.get('text')
 
 console.log(`${v} and ${t}.`)
 
-let a = "hiiii"
+let a = "hitest"
 console.log(a)
